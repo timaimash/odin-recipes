@@ -1,0 +1,23 @@
+.h1 {
+    color: cornflowerblue;
+    text-align: center;
+    font-size: 36px;
+}
+.h2 {
+    color: cornflowerblue;
+    text-align: center;
+    font-size: 26px;
+}
+.ol {
+    color: rgb(133, 127, 127);
+    text-align: center;
+    font-weight: 600;
+    margin-left: auto;
+    margin-right: auto;
+}
+.img1 {
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
